@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;ElementsKit_Lite\Traits\Singleton&quot; not found in <b>C:\xampp\htdocs\portfolio\wp-content\plugins\elementskit-lite\core\config-list.php</b> on line <b>4</b><br>
